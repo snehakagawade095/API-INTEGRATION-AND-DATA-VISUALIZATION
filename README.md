@@ -86,5 +86,6 @@ Data analysis using Pandas
 
 Creating meaningful visualizations using Matplotlib and Seaborn
 
+<img width="623" height="374" alt="Image" src="https://github.com/user-attachments/assets/9b8840c9-7184-4153-baf7-82569fe610e4" />
 
 

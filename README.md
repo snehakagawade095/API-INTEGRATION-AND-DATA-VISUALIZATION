@@ -10,6 +10,8 @@
 
 *DURATION*: 4 WEEKS
 
+*MENTOR*: NEELA SANTOSH
+
 📌 Project Overview
 
 This project demonstrates how to integrate a public API using Python and visualize real-time data using popular data visualization libraries. The OpenWeatherMap 5-day weather forecast API is used to fetch weather data for a selected city (Pune). The retrieved data is processed and visualized to analyze temperature and humidity trends over time.
